@@ -9,11 +9,13 @@ I,m Dip Pal from Bangladesh, and I am a front end developer. I really enjoy lear
 
 ### Connect with me:
 
-[<img align="left" alt="Dip | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="Dip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
-[<img align="left" alt="Dip | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />]
+<img align="left" alt="Dip | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Dip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Dip | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />
 
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DipPal513&hide=html)](https://github.com/DipPal513/github-readme-stats)
+<br/>
 
 ### Languages and Tools:
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logoColor=white&color=2bbc8a)
@@ -31,7 +33,7 @@ I,m Dip Pal from Bangladesh, and I am a front end developer. I really enjoy lear
 ---
 ![Dip's GitHub stats](https://github-readme-stats.vercel.app/api?username=DipPal513&theme=vue_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DipPal513&hide=html)](https://github.com/DipPal513/github-readme-stats)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/DipPal513/count.svg" />

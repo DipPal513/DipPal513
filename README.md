@@ -9,10 +9,9 @@ I,m Dip Pal from Bangladesh, and I am a front end developer. I really enjoy lear
 
 ### Connect with me:
 
-[<img align="left" alt="Dip | Medium" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Dip | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Dip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Dip | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="Dip | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/dip-pal-107a8a203/]
+[<img align="left" alt="Dip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/pritom_since_2002/]
+[<img align="left" alt="Dip | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][https://stackoverflow.com/users/13574278/pritom-paul-dip]
 
 
 ![Dip's GitHub stats](https://github-readme-stats.vercel.app/api?username=DipPal513&theme=vue_icons=true)

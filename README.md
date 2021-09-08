@@ -2,6 +2,18 @@
 
 I,m Dip Pal from Bangladesh, and I am a front end developer. I really enjoy learning languages and frameworks like React. I also enjoy ui,ux and design in general. You can check my linkedin at https://www.linkedin.com/in/dip-pal-107a8a203/
 
+<br/>
+
+<i>A curated list of awesome Github Profile READMEs</i>
+
+<a href="https://github.com/DipPal513/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/DipPal513/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/DipPal513/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/DipPal513/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/DipPal513/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/DipPal513/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/DipPal513/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/DipPal513/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/DipPal513/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/DipPal513/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/DipPal513/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/DipPal513/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+
+<br/>
 - 👯 I'm always eager to learn and share my learning
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn new technologies
 - ⚡ Fun fact: I love photography

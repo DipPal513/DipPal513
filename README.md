@@ -4,10 +4,8 @@ I,m Dip Pal from Bangladesh, and I am a front end developer. I really enjoy lear
 
 <br/>
 
-<i>A curated list of awesome Github Profile READMEs</i>
 
 <a href="https://github.com/DipPal513/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/DipPal513/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/DipPal513/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/DipPal513/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/DipPal513/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/DipPal513/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/DipPal513/awesome-github-profile-readme" alt="Issues Badge"/></a>
 <a href="https://github.com/DipPal513/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/DipPal513/awesome-github-profile-readme?color=2b9348"></a>

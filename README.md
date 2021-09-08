@@ -4,6 +4,11 @@ I,m Dip Pal from Bangladesh, and I am a front end developer. I really enjoy lear
 
 
 ![Dip's GitHub stats](https://github-readme-stats.vercel.app/api?username=DipPal513&theme=vue_icons=true)
+<p style = "align:center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DipPal513&hide=html)](https://github.com/DipPal513/github-readme-stats)
 
-
+</p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>

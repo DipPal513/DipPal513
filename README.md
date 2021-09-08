@@ -14,8 +14,10 @@ I,m Dip Pal from Bangladesh, and I am a front end developer. I really enjoy lear
 <img align="left" alt="Dip | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />
 
 <br />
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DipPal513&hide=html)](https://github.com/DipPal513/github-readme-stats)
-<br/>
+
 
 ### Languages and Tools:
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logoColor=white&color=2bbc8a)

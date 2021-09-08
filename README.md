@@ -15,7 +15,6 @@ I,m Dip Pal from Bangladesh, and I am a front end developer. I really enjoy lear
 
 - 👯 I'm always eager to learn and share my learning
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn new technologies
-<br/>
 - ⚡ Fun fact: I love photography
 
 

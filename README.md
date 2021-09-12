@@ -13,9 +13,11 @@ I,m Dip Pal from Bangladesh, and I am a front end developer. I really enjoy lear
 
 <br/>
 
-- 👯 I'm always eager to learn and share my learning
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn new technologies
-- ⚡ Fun fact: I love photography
+:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
+:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+<!-- 🤔 &emsp;<br/> -->
+:e-mail: &emsp;How to reach me: pretom.pal.513@gmail.com.<br/>
+⚡ &emsp;Fun fact: I love photography
 
 
 ### Connect with me:

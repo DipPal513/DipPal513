@@ -45,7 +45,7 @@ I'm Dip Pal from Bangladesh, and I am a front end developer. I really enjoy lear
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DipPal513&hide=html)](https://github.com/DipPal513/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DipPal513&hide=css)](https://github.com/DipPal513/github-readme-stats)
 
 ![Dip's GitHub stats](https://github-readme-stats.vercel.app/api?username=DipPal513&theme=vue=true)
 

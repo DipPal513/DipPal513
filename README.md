@@ -15,7 +15,6 @@ I'm Dip Pal from Bangladesh, and I am a front end developer. I really enjoy lear
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-<!-- 🤔 &emsp;<br/> -->
 :e-mail: &emsp;How to reach me: pretom.pal.513@gmail.com.<br/>
 ⚡ &emsp;Fun fact: I love photography
 
@@ -45,7 +44,7 @@ I'm Dip Pal from Bangladesh, and I am a front end developer. I really enjoy lear
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/js,css,typescript,react?username=DipPal513&hide=css)](https://github.com/DipPal513/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DipPal513&hide=typeScript)](https://github.com/DipPal513/github-readme-stats)
 
 ![Dip's GitHub stats](https://github-readme-stats.vercel.app/api?username=DipPal513&theme=vue=true)
 

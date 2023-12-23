@@ -5,11 +5,7 @@ I'm Dip Pal from Bangladesh, and I am a front end developer. I really enjoy lear
 <br/>
 
 
-<a href="https://github.com/DipPal513/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/DipPal513/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/DipPal513/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/DipPal513/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/DipPal513/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/DipPal513/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/DipPal513/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/DipPal513/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/DipPal513/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/DipPal513/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+
 
 <br/>
 
@@ -45,9 +41,6 @@ I'm Dip Pal from Bangladesh, and I am a front end developer. I really enjoy lear
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DipPal513&hide=html)](https://github.com/DipPal513/github-readme-stats)
-
-
-![Dip's GitHub stats](https://github-readme-stats.vercel.app/api?username=DipPal513&theme=vue=true)
 
 
 <p align="center"> 
